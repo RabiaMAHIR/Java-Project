@@ -20,7 +20,7 @@
     </properties>
 
     <dependencies>
-        <!-- مكتبة ZXing لتوليد رموز QR -->
+      
         <dependency>
             <groupId>com.google.zxing</groupId>
             <artifactId>core</artifactId>
@@ -32,7 +32,7 @@
             <version>3.5.0</version>
         </dependency>
 
-        <!-- مكتبة SQLite JDBC -->
+       
         <dependency>
             <groupId>org.xerial</groupId>
             <artifactId>sqlite-jdbc</artifactId>
